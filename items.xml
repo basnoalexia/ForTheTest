@@ -1,0 +1,8 @@
+    <?xml version="1.0" encoding="utf-8"?>
+    <items>
+        <item id="1" name="Item 1" quantity="10" />
+        <item id="2" name="Item 2" quantity="20" />
+        <item id="3" name="Item 3" quantity="30" />
+        <item id="4" name="Item 4" quantity="40" />
+    </items>
+    
